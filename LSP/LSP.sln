@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LSP", "LSP.pyproj", "{5FA60E5B-E5D5-4DE2-87C0-3FF930FE17E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA60E5B-E5D5-4DE2-87C0-3FF930FE17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA60E5B-E5D5-4DE2-87C0-3FF930FE17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD878A0B-C0BB-4E83-9291-F29A53102232}
+	EndGlobalSection
+EndGlobal
